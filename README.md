@@ -1,2 +1,2 @@
 # python-homework
-Repo for the first homeowrk
+Repo for the second homeowrk
